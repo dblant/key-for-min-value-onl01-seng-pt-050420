@@ -8,8 +8,7 @@ def key_for_min_value(name_hash)
    if value < minimum_value
      minimum_value = value
      minimum_keu - key
-   else 
-     nil
+   
    end
  
  
